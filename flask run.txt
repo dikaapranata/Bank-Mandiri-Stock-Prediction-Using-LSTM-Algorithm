@@ -9,9 +9,8 @@ line:
 87: plotting ntar data yg udah dimasukin keluar di static
 
 1.taro file flask di c
-
 buat virtual environtment
-2. buka cmd , terus python -m venv flask_venv, ini loading mayan lama sampe muncul foldernya
+2. buka cmd , terus python -m venv flask_venv,
 3. flask_venv\Scripts\activate (aktivin env)
 4. pip install flask
 5. pip install pandas
@@ -19,9 +18,6 @@ buat virtual environtment
 7. pip install numpy
 8. pip install scikit-learn
 9. pip install tensorflow==2.10.0
-
 10. buka file engine terus buka cmd lagi terus set FLASK_APP=app.py
 11. set FLASK_DEBUG=1
-12. flask run , kalo ada error biarin aja karena kita cuma make gpunyantar kalo ada tulisan deub mdoe on sama debug active cari aja kayak kode ipnya(mirip larable dibuk aja di browser)
-
-13.
+12. flask run 
